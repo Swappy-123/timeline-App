@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.heading-1 {
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.heading-2 {
+  color: #2b237c;
+  font-size: 20px;
+  font-family: 'Roboto';
+}

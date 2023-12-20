@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.project-bg {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  border: 0px solid;
+  border-radius: 12px;
+  box-shadow: 0px 12px 0px 5px;
+}
+
+.project-img {
+  height: 8vh;
+  width: 80%;
+  border-radius: 12px;
+  margin: 6px;
+}
+
+.first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.course-head {
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 5px;
+}
+
+.course-time {
+  color: black;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
+
+.course-para {
+  color: black;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

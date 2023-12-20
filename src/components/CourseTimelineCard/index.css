@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.course-bg {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  border: 0px solid;
+  border-radius: 12px;
+  box-shadow: 0px 12px 0px 5px;
+}
+
+.first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+.course-head {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.course-time {
+  color: black;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.course-para {
+  color: black;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.course-button {
+  border: 0px solid;
+  border-radius: 12px;
+  padding: 5px;
+  background-color: gray;
+  color: black;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin: 5px;
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
